@@ -5,6 +5,9 @@
   "repository": "https://github.com/kadimakeith/MERN-skeleton.git",
   "author": "kadimakeith <keithkadima@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "development": "nodemon"
+    },
   "dependencies": {
     "@hot-loader/react-dom": "16.13.0",
     "express": "4.17.1",
