@@ -17,8 +17,7 @@ Field name | Type | Description
 ---------- | ---- | -----------
 Name | String | Required field to store the user's name.
 E-mail | String | Required unique field to store the user's email and identify each account (only one account allowed per unique email).
-Password | String | A required field for authentication. The database will store the encrypted
-password and not the actual string for security purposes.
+Password | String | A required field for authentication. The database will store the encrypted password and not the actual string for security purposes.
 Created | Date | Automatically generated timestamp when a new user account is created
 Updated | Date | Automatically generated timestamp when existing user details are
 updated.
