@@ -1,6 +1,6 @@
 # MERN-skeleton
 
-## Feature breakdown ( Server )
+## Feature breakdown 
 
 - **Sign up:** Users can register by creating a new account using an email
 address.
